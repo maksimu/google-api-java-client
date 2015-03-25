@@ -129,7 +129,7 @@ Not supported: Google Web Toolkit (GWT), Java mobile (ME), and Java 1.4 (or earl
         <dependency>
           <groupId>com.google.api-client</groupId>
           <artifactId>google-api-client</artifactId>
-          <version>1.18.0-rc</version>
+          <version>1.20.0</version>
         </dependency>
       </dependencies>
     </project> 
